@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working at Capgemini Engineering.
+- 🔭 I'm currently searching for new opportunities.
 - 📝 I write mainly C ANSI code.
 - 🌐 TBD.
 - ✍️ Gearing up to share valuable insights with the global coding community.
