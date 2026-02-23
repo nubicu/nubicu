@@ -10,7 +10,7 @@
 - ✍️ Gearing up to share valuable insights with the global coding community.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,git,github,cpp,cs,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,git,github,cpp,cs,js,html,css,python,rust)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
