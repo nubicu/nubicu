@@ -25,7 +25,7 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [X(former Twitter)](https://twitter.com/nubicu)
+- Connect with me on [X](https://x.com/nubicu)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
