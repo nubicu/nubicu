@@ -1,11 +1,5 @@
 # Hi, I'm Robert! 👋
 
-<p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=nubicu&show_icons=true&theme=vue-dark" alt="nubicu:: Profile Stats"/></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nubicu&theme=tokyonight)
-
-## 🚀 About Me
-
 - 🔭 I'm currently searching for new opportunities.
 - 📝 I write mainly C ANSI code.
 - ✍️ Gearing up to share valuable insights with the global coding community.
@@ -13,9 +7,11 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,git,github,cpp,cs,js,html,css,python,rust)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nubicu&theme=tokyonight) <img src="https://github-readme-stats.vercel.app/api?username=nubicu&show_icons=true&theme=vue-dark" alt="nubicu:: Profile Stats"/>
 
-- 🌱 I’m currently exploring the ins and outs of Python. 🚀
+## 🚀 Currently Exploring 🌱
+
+- I’m currently exploring the ins and outs of Python.
 - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
