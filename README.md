@@ -2,9 +2,6 @@
 
 ![nubicu's Stats](https://github-readme-stats.vercel.app/api?username=nubicu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=nubicu&show_icons=true&theme=transparent" alt="nubicu:: Profile Stats"/></p>
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nubicu&theme=tokyonight)
 
 ## 🚀 About Me
