@@ -2,11 +2,15 @@
 
 ![nubicu's Stats](https://github-readme-stats.vercel.app/api?username=nubicu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=nubicu&show_icons=true&theme=transparent" alt="nubicu:: Profile Stats"/></p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nubicu&theme=tokyonight)
+
 ## 🚀 About Me
 
 - 🔭 I'm currently searching for new opportunities.
 - 📝 I write mainly C ANSI code.
-- 🌐 TBD.
 - ✍️ Gearing up to share valuable insights with the global coding community.
 
 ## Tech Stack
@@ -14,9 +18,8 @@
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Python Development
-  - Exploring the ins and outs of Python.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🌱 I’m currently exploring the ins and outs of Python. 🚀
+- Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
 
